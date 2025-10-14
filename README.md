@@ -24,7 +24,7 @@
 
 ###
 
-<h4 align="left">🤜🤛 Redes Sociais</h4>
+<h4 align="left">🤜 Redes Sociais</h4>
 
 ###
 
